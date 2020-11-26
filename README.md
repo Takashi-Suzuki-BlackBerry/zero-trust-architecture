@@ -84,7 +84,7 @@ When discussing zero trust architectures, it's useful to have a common vocabular
 
 -   Policy Engine -- The component that takes signals and compares them with access policies to determine an access decision. A policy engine will often be a 3rd party product or service that can be purchased from a vendor. 
 
--   Policy Enforcement Point -- Mediates requests from a device to a service using the Policy Engine to determine if the connection is trusted.
+-   Policy Enforcement Point -- Mediates requests from a user or a device to a service or data using the Policy Engine to determine if the requests can be authorised.
 
 -   Device health -  Confidence that a device is compliant with configuration polic**i**es, and is in a good state i.e. the latest patches have been installed, or a feature like secure boot is enabled. 
 
