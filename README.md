@@ -12,7 +12,7 @@
 >
 > You can also e-mail us on [zerotrust@ncsc.gov.uk](mailto:zerotrust@ncsc.gov.uk)
 
-## Introduction
+## Introduction 1
 
 Network architecture is changing. More services are moving to the cloud and there is continued growth in the use of Software as a Service (SaaS). Meanwhile, many organisations are embracing flexible working, with staff connecting from multiple devices in a variety of locations.
 
